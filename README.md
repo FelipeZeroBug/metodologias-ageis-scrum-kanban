@@ -120,14 +120,6 @@ Ferramentas como **Jira**, **Trello** e **Azure DevOps** ajudam a montar quadros
 
 ---
 
-## 🧾 Referências  
-- [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)  
-- [Guia do Scrum (Ken Schwaber & Jeff Sutherland)](https://scrumguides.org/)  
-- [Kanban University](https://kanban.university/)  
-- [Atlassian Agile Coach](https://www.atlassian.com/agile)  
-
----
-
 ## 🏁 Conclusão  
 
 As **metodologias ágeis** revolucionaram a forma como os times de desenvolvimento trabalham, trazendo **velocidade, adaptação e qualidade**.  
